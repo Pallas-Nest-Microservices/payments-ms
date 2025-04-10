@@ -24,7 +24,7 @@ export class PaymentsController {
   cancel() {
     return {
       ok: false,
-      message: 'Payment canceled!',
+      message: 'Payment cancelled!',
     };
   }
 
